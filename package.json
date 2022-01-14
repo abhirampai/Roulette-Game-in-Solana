@@ -1,0 +1,27 @@
+{
+  "name": "roulette-game-in-solana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhirampai/Roulette-Game-in-Solana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhirampai/Roulette-Game-in-Solana/issues"
+  },
+  "homepage": "https://github.com/abhirampai/Roulette-Game-in-Solana#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.31.0",
+    "chalk": "^4.1.2",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.0",
+    "yargs-parser": "^21.0.0"
+  }
+}
